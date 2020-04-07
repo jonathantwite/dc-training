@@ -1,4 +1,4 @@
-# Introduction
+# Election Registration - The Industry
 
 Paul Haworth
 : Training manager
