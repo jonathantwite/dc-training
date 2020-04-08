@@ -21,7 +21,7 @@ Robert Ryan
 * **Electoral Registration Officer**
   * Responsible for accuracy and completeness of register.
   * Publish annually, alterations monthly.
-  * Role codified in law.
+  * Role codified in IER legislation.
 
 * aRO and ERO are nearly always the same person in England and Wales (often the Chief Executive of the council).  In Scotland, they are usually different people.
   * Mostly symbolic roles
@@ -186,6 +186,7 @@ Open register
   * Welsh Assembly elections
   * Welsh Language Regulations
     * All government communications in Dual language with Welsh first.
+    * Users can specify to receive communications in specific language only.
 * **NI and Crown dependencies**
   * Use own completely unrelated registration systems.
 * **London**
