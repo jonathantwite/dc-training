@@ -5,6 +5,9 @@
 aRO
 : Acting Returning Officer.
 
+CA
+: ???
+
 DSM
 : Democratic Services Manager.
 
@@ -13,6 +16,21 @@ ERO
 
 ESM
 : Electoral Services Manager.
+
+PC
+: Poll Clerk.
+
+PO
+: Presiding Officer.
+
+RO
+: Returning Officer.
+
+PRC
+: Reserve Poll CLerk.
+
+RPO
+: Reserve Presiding Officer.
 
 ## Processes
 
