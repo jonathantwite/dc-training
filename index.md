@@ -1,6 +1,6 @@
 # Democracy Counts Training
 
-* [Acronyms](<Training Week/Acronyms>)
+* [Acronyms](Acronyms)
 
 ## Training Week
 
