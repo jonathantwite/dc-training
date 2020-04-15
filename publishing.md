@@ -9,5 +9,6 @@ git push origin master
 
 git checkout publish
 git merge master
+
 git push trainingrepo publish:master
 ```
