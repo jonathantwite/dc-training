@@ -9,6 +9,7 @@
 * [3 EReg - Absent Voting](<Training Week/3 EReg - Absent Voting>)
 * [4 EReg - Elector Journey - Potential Electors](<Training Week/4 EReg - Elector Journey - Potential Electors>)
 * [5 EReg - Elector Journey - Elector Applications](<Training Week/5 EReg - Elector Journey - Elector Applications>)
+* [6 EReg - Elector Journey - Elector Determination](<Training Week/6 EReg - Elector Journey - Elector Determination>)
 
 ## DC Academy
 
