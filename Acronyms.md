@@ -51,6 +51,9 @@ HEF
 ITR
 : Invitation To Register.
 
+PVA
+: Postal Vote Application.
+
 ## Data / Fields
 
 NINO
@@ -70,6 +73,10 @@ PS
 SAO
 : Secondary Address Object
   The property (e.g. a residence or a business) within a *PAO*.  Each *SAO* has a *UPRN*.
+
+UIM
+: Unique Identifying Mark.
+  Used for numbering ballet papers.
 
 UPRN
 : Unique Property Reference Number.
@@ -117,8 +124,14 @@ UKPGE
 
 ## Democracy Counts
 
+E8
+: Elector8.
+
 EDR
 : Employment Development Review.
+
+ES
+: ElectorScan.
 
 UG
 : User Group.
