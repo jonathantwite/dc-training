@@ -11,6 +11,8 @@
 * [5 EReg - Elector Journey - Elector Applications](<Training Week/Electoral Register/5 EReg - Elector Journey - Elector Applications>)
 * [6 EReg - Elector Journey - Elector Determination](<Training Week/Electoral Register/6 EReg - Elector Journey - Elector Determination>)
 * [8 EReg - Register Accuracy](<Training Week/Electoral Register/8 EReg - Register Accuracy>)
+* [9 EReg - Register Publication](<Training Week/Electoral Register/9 EReg - Register Publication>)
+* [11 EReg - Declarations](<Training Week/Electoral Register/11 EReg - Declarations>)
 
 ## DC Academy
 
