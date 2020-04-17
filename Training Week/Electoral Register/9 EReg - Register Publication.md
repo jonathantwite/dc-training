@@ -98,12 +98,14 @@ Determination Deadline
 * 4th May publication is probably for an election as *Determination deadline* is day before.
 
 <!-- markdownlint-disable MD033 -->
+
 |Communication received|Date first on register|
 |---|---|
 |ITR received 4 March (Red)<br />Evidence received 18 March|1 May|
 |Change of name with evidence received 2 May|4 May|
 |ITR received 8 March (Green)|1 May|
 |Paper ITR received 4 February<br />IERDS returned green 11 February|1 March|
+
 <!-- markdownlint-enable MD033 -->
 
 ## Publication
