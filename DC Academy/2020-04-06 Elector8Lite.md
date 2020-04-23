@@ -18,7 +18,7 @@ In SQL Server Management Studio
         * Client should be responsible for doing this as they may have other databases on that server.
 * Create SQL login
     1. `Security` > `Logins` > `right-click` > `New Login`
-        * Use `User ID = Elector8Lite` and `Password = D3m0@1234` as these are the default values in the application configuration file.
+        * Use `User ID = Elector8Lite` and `Password = <the-D3-one>` as these are the default values in the application configuration file.
         * Disable password complexity setting.
         * Disable password policy setting.
     1. Click *Ok*.
