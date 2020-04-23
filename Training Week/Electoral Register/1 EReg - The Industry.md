@@ -54,7 +54,7 @@ Robert Ryan
 
 * In addition:
   * Police & Crime Commissioners (PCC).
-  * Neighborhood Planning Referenda (NPR) - often in areas containing Sites of Special Scientific Interest (SSSIs).
+  * Neighbourhood Planning Referenda (NPR) - often in areas containing Sites of Special Scientific Interest (SSSIs).
   * National Parks elections (Scotland).
 
 ## Registration

@@ -18,12 +18,18 @@ Anonymous Electors
   Can be registered if a person or their family would be in danger if their identity would be known.
   Appear on the register as Anonymous Elector.
 
+Association of Electoral Administrators
+: Professional body of people who administrate elections.
+
 Boundary Commission
 : The body that makes boundary changes and advise on associated *PD* changes.
   Also *Local Government Boundary Commission*.
 
-Cabinet office
+Cabinet Office
 : The ministerial department of the UK Government responsible for constitution and internal affairs of the government.
+
+Client environment
+: Unless hosted, *Elector8* sits at the clients site on their hardware.
 
 Court of Common Council
 : The elected body formed by the City of London's *Ward Election*.
@@ -37,6 +43,12 @@ Declaration of Local Connection Elector
 
 Democratic Services Manager
 : The person in a council who supervises elections and electoral registration.  Usually has other roles in council as well.
+
+Dies Non
+: Bank holidays and other public holidays which do not count as working days.
+
+Elector Determination
+: Decision to allow inclusion in the electoral register based on a person’s age, residence and nationality.
 
 Electoral Area
 : A geographic constituency for a specific type of election.  A *PD* can be in different *Electoral Areas* for different types of election.
@@ -52,6 +64,9 @@ Electoral Registration Officer
 : The person responsible for accuracy and completeness of register.
   The role codified in *IER* legislation.
   The *aRO* and *ERO* are nearly always the same person in England and Wales (often the Chief Executive of the council), but are usually different people in Scotland.
+
+Electoral Review
+: Assessment of the number and boundaries of wards or divisions for the purposes of the election.
 
 Electoral Services Manager
 : A person who reports to the *DSM* and closely manages elections and registrations.
@@ -86,6 +101,10 @@ Local Government Boundary Commission
 : The body that makes boundary changes at a local government level and advise on associated *PD* changes.
   Also *Boundary Commission*.
 
+Notice of alteration
+: A publication of the changes to the *Electoral Register*.
+  Usually published monthly, except in the run-up to an election where the *NOA*s will usually be published three further times.
+
 Open Register
 : The *Electoral Register* excluding electors who have specifically opted out.
   This register can be purchased from a *LA*.
@@ -105,6 +124,9 @@ Postal Vote
 : A method of *Absent Voting* where a *Ballot Paper* is posted to an elector and sent back, usually again by post, to be counted in the *Count*.
   A *Postal Vote Statement* is also sent to the elector to be signed and returned separately.
 
+Postal Vote Application
+: The application form required to register for a *Postal Vote*.
+
 Postal Vote Statement
 : The declaration signed by a elector completing a *Postal Vote* to declare that they are the person to whom the postal vote is addressed.
 
@@ -112,12 +134,22 @@ Proxy Vote
 : A method of *Absent Voting* where an elector declares that another elector will cast their vote for them.
   The proxy must also be entitled to vote in the election.
 
+Query Letter
+: A request for documentary evidence from an elector.
+
+Resequence
+: Process of renumbering Electors on the *Electoral Register*.
+  Usually performed annually.
+
 Service Voter
 : A member of the armed forces who does not ordinarily resides their home address, or does not have a home address.
   Can include their spouses.
 
 Special Category Declaration
 : A declaration that you do not fulfil the normal residency rules but still require a vote in elections.
+
+Summary Removal
+: Process of removing an elector from the database. Requiring 2 pieces of evidence.
 
 Valuation Joint Board
 : In Scotland, a body that manages electoral registration and address valuations.

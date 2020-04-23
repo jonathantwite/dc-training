@@ -56,6 +56,14 @@ PVA
 
 ## Data / Fields
 
+BLPU
+: Business Land Property Unit.
+  Unit of land used in BS7666.  Can have a Classification code.
+
+LPI
+: Land and Property Identifier.
+  A property address.
+
 NINO
 : National Insurance Number.
 
