@@ -6,7 +6,7 @@ aRO
 : Acting Returning Officer.
 
 CA
-: ???
+: Count Assistant
 
 DSM
 : Democratic Services Manager.
@@ -56,6 +56,14 @@ PVA
 
 ## Data / Fields
 
+BLPU
+: Business Land Property Unit.
+  Unit of land used in BS7666.  Can have a Classification code.
+
+LPI
+: Land and Property Identifier.
+  A property address.
+
 NINO
 : National Insurance Number.
 
@@ -88,7 +96,7 @@ USRN
 
 CAG
 : Corporate Address Gazetteer.
-  LA mapping/addressing team/expert. See also GIS.
+  *LA* mapping/addressing team/expert. See also *GIS*.
 
 DWP
 : Department for Work and Pensions.
@@ -97,11 +105,11 @@ EC
 : Electoral Commission.
 
 GDS
-: ???
+: Government Digital Service
 
 GIS
 : Geographic Information Systems
-  LA mapping/addressing team/expert. See also CAG.
+  *LA* mapping/addressing team/expert. See also *CAG*.
 
 IERDS
 : Individual Elector Registration Data Service.
@@ -111,7 +119,7 @@ LA
 
 LLPG
 : Local Land and Property Gazetteer.
-  Updated by GIS/CAG.
+  Updated by *GIS*/*CAG*.
 
 NFI
 : National Fraud Initiative.

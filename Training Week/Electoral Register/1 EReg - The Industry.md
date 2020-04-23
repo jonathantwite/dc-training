@@ -30,7 +30,7 @@ Robert Ryan
   * Supervises elections and electoral registration.
   * Usually has other roles in council as well.
 
-* **Electoral Services manager**
+* **Electoral Services Manager**
   * Reports to *DSM*.
   * Closely manages elections and registrations.
 
@@ -47,14 +47,14 @@ Robert Ryan
     1. Parliamentary Constituency,
         * Scottish Parliament / Welsh Assembly / Westminster,
     1. Mayoral,
-    1. County Divisions - County Councilors,
-    1. Local representatives - ward, town, parish councilors.
+    1. County Divisions - County Councillors,
+    1. Local representatives - Ward, Town, Parish councillors.
 
 * Different levels have different rules and timetables.
 
 * In addition:
   * Police & Crime Commissioners (PCC).
-  * Neighborhood Planning Referenda (NPR) - often in areas containing Sites of Special Scientific Interest (SSSIs).
+  * Neighbourhood Planning Referenda (NPR) - often in areas containing Sites of Special Scientific Interest (SSSIs).
   * National Parks elections (Scotland).
 
 ## Registration
@@ -145,7 +145,7 @@ Robert Ryan
 1. HEF is not enough to add or remove people from register:
     * HEF is one form of evidence.
     * Death is sometimes used as full evidence.
-    * ITF sent for new people.
+    * ITR sent for new people.
 1. ERO republishes register of electors on 1st December
 1. register distributed to government, credit ratings agencies etc.
 
@@ -154,7 +154,7 @@ Robert Ryan
 ## Two registers
 
 Full register
-: restricted to poilling, political canvassing and detection of fraud.
+: restricted to polling, political canvassing and detection of fraud.
 
 Open register
 : can be bought for commercial purposes.  Electors can opt out.
