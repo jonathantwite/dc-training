@@ -130,6 +130,20 @@ NLPG
 UKPGE
 : UK Parliamentary General Election.
 
+## Technology
+
+DKIM
+: DomainKeys Identified Mail.
+  Method of securing emails.
+
+DMARC
+: Domain-based Message Authentication Reporting and Conformance.
+  Protocol for dealing with email verification.
+
+SPF
+: Sender Policy Framework.
+  List of IPs allowed to send emails on behalf of a domain.
+
 ## Democracy Counts
 
 E8
