@@ -18,5 +18,7 @@
 
 * [2019-10-17 Gazetter Import Process](<DC Academy/2019-10-17 Gazetter Import Process>)
 * [2019-10-25 JIRA](<DC Academy/2019-10-25 JIRA>)
+* [2020-01-30 DKIM and Gov Notify](<DC Academy/2020-01-30 DKIM and Gov Notify>)
+* [2020-01-30 Gherkin](<DC Academy/2020-01-30 Gherkin>)
 * [2020-04-06 Elector8Lite](<DC Academy/2020-04-06 Elector8Lite>)
 * [2020-04-09 Boundary Changes](<DC Academy/2020-04-09 Boundary Changes>)
