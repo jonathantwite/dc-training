@@ -13,6 +13,8 @@
 * [8 EReg - Register Accuracy](<Training Week/Electoral Register/8 EReg - Register Accuracy>)
 * [9 EReg - Register Publication](<Training Week/Electoral Register/9 EReg - Register Publication>)
 * [11 EReg - Declarations](<Training Week/Electoral Register/11 EReg - Declarations>)
+* [1 EMan - Elections Prep](<Training Week/Elections Management/1 EMan - Elections Prep>)
+* [2 EMan - Polling Places & Polling Plans](<Training Week/Elections Management/2 EMan - Polling Places & Polling Plans>)
 
 ## DC Academy
 
