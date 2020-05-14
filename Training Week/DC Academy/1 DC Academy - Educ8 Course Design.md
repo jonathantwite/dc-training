@@ -8,7 +8,7 @@ Consult With Me
 
 ## Consult With Me
 
-http://www.consultwithme.co.uk
+<http://www.consultwithme.co.uk>
 
 ### Creating a new council
 
@@ -16,7 +16,7 @@ http://www.consultwithme.co.uk
     * Only select *Admin* if for DC use.
 1. Once created, from the list of councils, select activate.
 1. Select to *View Services* and add a new service.
-1. CLick to Generate a token for that service.
+1. Click to Generate a token for that service.
 
 ### Creating a new user
 
