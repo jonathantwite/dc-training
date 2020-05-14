@@ -15,6 +15,7 @@
 * [11 EReg - Declarations](<Training Week/Electoral Register/11 EReg - Declarations>)
 * [1 EMan - Elections Prep](<Training Week/Elections Management/1 EMan - Elections Prep>)
 * [2 EMan - Polling Places & Polling Plans](<Training Week/Elections Management/2 EMan - Polling Places & Polling Plans>)
+* [1 DC Academy - Educ8 Course Design](<Training Week/DC Academy/1 DC Academy - Educ8 Course Design>)
 
 ## DC Academy
 
