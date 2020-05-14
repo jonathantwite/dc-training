@@ -1,6 +1,6 @@
 # Elector8Lite
 
-SharePoint > Support > DC Product Support > Elector8Lite > Installation Guide
+SharePoint > Support > DCL Product Support Documentation > Elector8Lite > Installation Guide
 
 * Website running under IIS.
   * Customers should be installing IIS, but often don't feel confident doing so.
@@ -13,7 +13,7 @@ In SQL Server Management Studio
 
 * Allow mixed mode authentication
     1. `right-click` the database server > `Properties`, *Security* tab.
-    1. Select *Use mixed mode authentication*.
+    1. Select *SQL Server and Windows Authentication mode*.
     1. Restart the SQL server - `right-click` on the server > `Restart`.
         * Client should be responsible for doing this as they may have other databases on that server.
 * Create SQL login
